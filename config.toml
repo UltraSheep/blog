@@ -1,5 +1,5 @@
-baseURL = "https://maxxxxxx-x.github.io/"
-title = "Maxx's Blog"
+baseURL = "https://UltraSheep.github.io/"
+title = "Sheeps's Blog"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "ExampleSite"
-description = "I dont like making blogs :<"
+description = "fukfukfukfukfukfukufkukfku"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
@@ -53,8 +53,8 @@ PygmentsStyle = "vim"
 
   [params.profileMode]
   enabled = true
-  title = "Me no likey frontend development"
-  subtitle = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nMY BRAIN HURTS"
+  title = "Def not copypasta"
+  subtitle = "fuck i deleted all my code(everything including homework)"
   imageUrl = "img/author.jpg"
   imageWidth = 120
   imageHeight = 120
@@ -62,11 +62,11 @@ PygmentsStyle = "vim"
   
   [params.homeInfoParams]
   Title = "Please send help"
-  Content = "I dont like this"
+  Content = "i found some files back in edit history"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/maxxxxxx-x"
+  url = "https://github.com/UltraSheep"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
