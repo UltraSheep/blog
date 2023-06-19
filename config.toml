@@ -1,5 +1,5 @@
 baseURL = "https://UltraSheep.github.io/"
-title = "Sheeps's Blog"
+title = "Sheeps's Blog2"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "ExampleSite"
-description = "fukfukfukfukfukfukufkukfku"
+description = "hello"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
@@ -54,7 +54,7 @@ PygmentsStyle = "vim"
   [params.profileMode]
   enabled = true
   title = "Def not copypasta"
-  subtitle = "fuck i deleted all my code(everything including homework)"
+  subtitle = "this is not the old one i promise"
   imageUrl = "img/author.jpg"
   imageWidth = 120
   imageHeight = 120
@@ -62,7 +62,7 @@ PygmentsStyle = "vim"
   
   [params.homeInfoParams]
   Title = "Please send help"
-  Content = "i found some files back in edit history"
+  Content = "i want to sleep"
 
   [[params.socialIcons]]
   name = "github"
